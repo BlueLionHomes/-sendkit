@@ -4,8 +4,9 @@
     "private": true,
     "type": "module",
     "dependencies": {
-         "commander": "^15.0.0",
-         "sendkit-core": "workspace:*"
+        "commander": "^15.0.0",
+        "sendkit-core": "workspace:*",
+        "zod": "^4.6.5"
     },
     "devDependencies": {
         "@types/node": "^26.6.1"
