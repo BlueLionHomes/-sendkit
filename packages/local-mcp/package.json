@@ -1,15 +1,18 @@
 {
-  "name": "sendkit-mcp",
+  "name": "@royallionhomes/sendkit-mcp",
   "version": "0.0.0",
   "private": true,
   "type": "module",
   "exports": {
     ".": "./src/index.ts"
   },
+  "scripts": {
+    "build": "tsdown"
+  },
   "dependencies": {
     "@modelcontextprotocol/client": "^2.0.0",
     "@modelcontextprotocol/server": "^2.0.0",
-    "sendkit-core": "workspace:*",
+    "@royallionhomes/sendkit-core": "workspace:*",
     "zod": "^4.6.5"
   }
 }

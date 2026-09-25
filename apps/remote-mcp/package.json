@@ -12,6 +12,6 @@
     "@modelcontextprotocol/client": "^2.1.0",
     "@modelcontextprotocol/server": "^2.1.0",
     "hono": "^4.13.9",
-    "sendkit-core": "workspace:*"
+    "@royallionhomes/sendkit-core": "workspace:*"
   }
 }
