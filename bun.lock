@@ -42,7 +42,7 @@
     },
     "packages/local-mcp": {
       "name": "@royallionhomes/sendkit-mcp",
-      "version": "0.0.0",
+      "version": "0.0.1",
       "dependencies": {
         "@modelcontextprotocol/client": "^2.0.0",
         "@modelcontextprotocol/server": "^2.0.0",
